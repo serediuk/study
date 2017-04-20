@@ -1,0 +1,5 @@
+1. plain jdbc
+2. spring jdbc template
+3. hibernate
+4. jpa repository
+5. rest jpa repository
